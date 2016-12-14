@@ -3,8 +3,8 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Incito
-subtitle: Get Inspired.
+title: Cloud Samurai
+subtitle: No Ninja's Here.
 description: A Blog about things that got me inspired.
 author: Mandus Momberg
 language: en
@@ -63,7 +63,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: alex
+theme: next
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html

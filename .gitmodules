@@ -4,3 +4,9 @@
 [submodule "themes/hueman"]
 	path = themes/hueman
 	url = https://github.com/ppoffice/hexo-theme-hueman.git
+[submodule "themes/flat"]
+	path = themes/flat
+	url = https://github.com/reee/hexo-theme-flat.git
+[submodule "themes/next"]
+	path = themes/next
+	url = https://github.com/iissnan/hexo-theme-next.git
